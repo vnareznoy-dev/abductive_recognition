@@ -1,0 +1,1618 @@
+{
+  "n_total": 320,
+  "n_train": 240,
+  "n_test": 80,
+  "steps": 50,
+  "dt_s": 0.1,
+  "classes": [
+    "rush",
+    "flank",
+    "weave",
+    "hold"
+  ],
+  "seed_train": 1,
+  "seed_test": 99,
+  "obs_noise": 0.3,
+  "trajectories": [
+    {
+      "file": "traj_0000_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0001_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0002_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0003_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0004_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0005_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0006_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0007_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0008_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0009_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0010_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0011_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0012_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0013_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0014_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0015_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0016_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0017_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0018_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0019_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0020_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0021_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0022_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0023_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0024_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0025_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0026_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0027_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0028_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0029_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0030_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0031_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0032_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0033_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0034_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0035_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0036_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0037_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0038_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0039_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0040_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0041_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0042_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0043_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0044_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0045_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0046_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0047_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0048_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0049_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0050_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0051_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0052_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0053_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0054_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0055_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0056_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0057_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0058_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0059_train_rush.csv",
+      "split": "train",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0060_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0061_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0062_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0063_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0064_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0065_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0066_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0067_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0068_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0069_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0070_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0071_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0072_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0073_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0074_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0075_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0076_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0077_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0078_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0079_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0080_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0081_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0082_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0083_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0084_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0085_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0086_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0087_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0088_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0089_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0090_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0091_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0092_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0093_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0094_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0095_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0096_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0097_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0098_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0099_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0100_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0101_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0102_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0103_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0104_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0105_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0106_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0107_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0108_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0109_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0110_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0111_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0112_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0113_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0114_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0115_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0116_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0117_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0118_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0119_train_flank.csv",
+      "split": "train",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0120_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0121_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0122_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0123_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0124_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0125_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0126_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0127_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0128_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0129_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0130_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0131_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0132_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0133_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0134_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0135_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0136_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0137_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0138_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0139_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0140_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0141_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0142_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0143_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0144_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0145_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0146_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0147_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0148_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0149_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0150_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0151_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0152_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0153_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0154_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0155_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0156_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0157_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0158_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0159_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0160_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0161_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0162_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0163_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0164_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0165_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0166_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0167_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0168_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0169_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0170_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0171_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0172_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0173_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0174_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0175_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0176_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0177_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0178_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0179_train_weave.csv",
+      "split": "train",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0180_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0181_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0182_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0183_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0184_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0185_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0186_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0187_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0188_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0189_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0190_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0191_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0192_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0193_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0194_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0195_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0196_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0197_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0198_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0199_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0200_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0201_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0202_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0203_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0204_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0205_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0206_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0207_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0208_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0209_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0210_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0211_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0212_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0213_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0214_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0215_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0216_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0217_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0218_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0219_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0220_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0221_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0222_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0223_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0224_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0225_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0226_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0227_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0228_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0229_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0230_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0231_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0232_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0233_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0234_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0235_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0236_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0237_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0238_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0239_train_hold.csv",
+      "split": "train",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0240_test_rush.csv",
+      "split": "test",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0241_test_rush.csv",
+      "split": "test",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0242_test_rush.csv",
+      "split": "test",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0243_test_rush.csv",
+      "split": "test",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0244_test_rush.csv",
+      "split": "test",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0245_test_rush.csv",
+      "split": "test",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0246_test_rush.csv",
+      "split": "test",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0247_test_rush.csv",
+      "split": "test",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0248_test_rush.csv",
+      "split": "test",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0249_test_rush.csv",
+      "split": "test",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0250_test_rush.csv",
+      "split": "test",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0251_test_rush.csv",
+      "split": "test",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0252_test_rush.csv",
+      "split": "test",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0253_test_rush.csv",
+      "split": "test",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0254_test_rush.csv",
+      "split": "test",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0255_test_rush.csv",
+      "split": "test",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0256_test_rush.csv",
+      "split": "test",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0257_test_rush.csv",
+      "split": "test",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0258_test_rush.csv",
+      "split": "test",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0259_test_rush.csv",
+      "split": "test",
+      "intent": "rush"
+    },
+    {
+      "file": "traj_0260_test_flank.csv",
+      "split": "test",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0261_test_flank.csv",
+      "split": "test",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0262_test_flank.csv",
+      "split": "test",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0263_test_flank.csv",
+      "split": "test",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0264_test_flank.csv",
+      "split": "test",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0265_test_flank.csv",
+      "split": "test",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0266_test_flank.csv",
+      "split": "test",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0267_test_flank.csv",
+      "split": "test",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0268_test_flank.csv",
+      "split": "test",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0269_test_flank.csv",
+      "split": "test",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0270_test_flank.csv",
+      "split": "test",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0271_test_flank.csv",
+      "split": "test",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0272_test_flank.csv",
+      "split": "test",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0273_test_flank.csv",
+      "split": "test",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0274_test_flank.csv",
+      "split": "test",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0275_test_flank.csv",
+      "split": "test",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0276_test_flank.csv",
+      "split": "test",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0277_test_flank.csv",
+      "split": "test",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0278_test_flank.csv",
+      "split": "test",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0279_test_flank.csv",
+      "split": "test",
+      "intent": "flank"
+    },
+    {
+      "file": "traj_0280_test_weave.csv",
+      "split": "test",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0281_test_weave.csv",
+      "split": "test",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0282_test_weave.csv",
+      "split": "test",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0283_test_weave.csv",
+      "split": "test",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0284_test_weave.csv",
+      "split": "test",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0285_test_weave.csv",
+      "split": "test",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0286_test_weave.csv",
+      "split": "test",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0287_test_weave.csv",
+      "split": "test",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0288_test_weave.csv",
+      "split": "test",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0289_test_weave.csv",
+      "split": "test",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0290_test_weave.csv",
+      "split": "test",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0291_test_weave.csv",
+      "split": "test",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0292_test_weave.csv",
+      "split": "test",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0293_test_weave.csv",
+      "split": "test",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0294_test_weave.csv",
+      "split": "test",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0295_test_weave.csv",
+      "split": "test",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0296_test_weave.csv",
+      "split": "test",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0297_test_weave.csv",
+      "split": "test",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0298_test_weave.csv",
+      "split": "test",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0299_test_weave.csv",
+      "split": "test",
+      "intent": "weave"
+    },
+    {
+      "file": "traj_0300_test_hold.csv",
+      "split": "test",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0301_test_hold.csv",
+      "split": "test",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0302_test_hold.csv",
+      "split": "test",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0303_test_hold.csv",
+      "split": "test",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0304_test_hold.csv",
+      "split": "test",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0305_test_hold.csv",
+      "split": "test",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0306_test_hold.csv",
+      "split": "test",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0307_test_hold.csv",
+      "split": "test",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0308_test_hold.csv",
+      "split": "test",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0309_test_hold.csv",
+      "split": "test",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0310_test_hold.csv",
+      "split": "test",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0311_test_hold.csv",
+      "split": "test",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0312_test_hold.csv",
+      "split": "test",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0313_test_hold.csv",
+      "split": "test",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0314_test_hold.csv",
+      "split": "test",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0315_test_hold.csv",
+      "split": "test",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0316_test_hold.csv",
+      "split": "test",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0317_test_hold.csv",
+      "split": "test",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0318_test_hold.csv",
+      "split": "test",
+      "intent": "hold"
+    },
+    {
+      "file": "traj_0319_test_hold.csv",
+      "split": "test",
+      "intent": "hold"
+    }
+  ]
+}

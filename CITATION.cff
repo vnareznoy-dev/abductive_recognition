@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite the article below."
+title: "Abductive intent recognition of dynamic objects from spatial trajectories — dataset and code"
+type: software
+authors:
+  - family-names: Nareznoy
+    given-names: Volodymyr
+    orcid: "https://orcid.org/0009-0009-1397-5687"
+year: 2026
+license: MIT
+preferred-citation:
+  type: article
+  title: "Абдуктивне логічне програмування у задачах розпізнавання намірів динамічних об'єктів за їхніми просторовими траєкторіями"
+  authors:
+    - family-names: Nareznoy
+      given-names: Volodymyr
+      orcid: "https://orcid.org/0009-0009-1397-5687"
+  year: 2026
+  notes: "Journal reference and DOI will be added upon publication."

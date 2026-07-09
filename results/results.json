@@ -1,0 +1,39 @@
+{
+  "n_train": 240,
+  "n_test": 80,
+  "steps": 50,
+  "intents": [
+    "rush",
+    "flank",
+    "weave",
+    "hold"
+  ],
+  "accuracy": {
+    "abductive": 0.9875,
+    "inductive_lstm": 1.0,
+    "inductive_gru": 1.0
+  },
+  "latency_frames": {
+    "abductive": 18.65,
+    "inductive_lstm": 20.375,
+    "inductive_gru": 6.35
+  },
+  "data_efficiency_lstm": {
+    "8": 1.0,
+    "20": 1.0,
+    "40": 0.9875,
+    "80": 0.9625,
+    "240": 1.0
+  },
+  "abductive_training_trajectories": 0,
+  "switch_reclassify_lag_frames": {
+    "abductive": 11.279661016949152,
+    "inductive_lstm": 10.78688524590164,
+    "inductive_gru": 13.24731182795699
+  },
+  "explainability_sample": {
+    "intent": "rush",
+    "justification": "aimed_at_goal(low_miss, closing)",
+    "lstm_equivalent": "softmax probability vector only (black-box)"
+  }
+}
